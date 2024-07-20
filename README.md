@@ -1,5 +1,6 @@
 # Lecture-Notes-to-Time-Series-Econometrics
-These are my lecture notes for a Time Series Econometrics course - MSc and PhD levels in Portuguese.
+These are my lecture notes for a Time Series Econometrics course - MSc and PhD levels in Portuguese. 
+Most scripts are in R but for OxMetrics is also used in some lectures
 The Lectures Notes have the following order:
 1. Introducao_Series_Temporais
 2. Indetificac
