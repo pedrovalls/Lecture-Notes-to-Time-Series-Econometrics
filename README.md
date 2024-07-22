@@ -7,6 +7,6 @@ The Lectures Notes have the following order:
 3. Filtro de Kalman
 4. Modelos Autoregressivos Defasagens Distribuidas
 5. Modelos para a Variancia
-6. Modelos VAR e VEC
+6. Modelos_VAR_e_VEC
 7. Modelos_para_Vol_Multivariada
 8. Modelos Fatoriais Dinâmicos (not avaliable)
