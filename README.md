@@ -5,8 +5,9 @@ The Lectures Notes have the following order:
 1. Introducao_Series_Temporais
 2. Indetificac
 3. Filtro de Kalman
-4. Modelos Autoregressivos Defasagens Distribuidas
-5. Modelos para a Variancia
-6. Modelos_VAR_e_VEC
-7. Modelos_para_Vol_Multivariada
-8. Modelos Fatoriais Dinâmicos (not avaliable)
+4. Teste de Raízes Unitárias
+5. Modelos Autoregressivos Defasagens Distribuidas
+6. Modelos para a Variancia
+7. Modelos_VAR_e_VEC
+8. Modelos_para_Vol_Multivariada
+9. Modelos Fatoriais Dinâmicos (not avaliable)
